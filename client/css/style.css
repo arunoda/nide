@@ -150,9 +150,11 @@ body {
 	left: 0;
 	right: 0;
 	bottom: 0;
-	overflow: auto;
+	/*overflow: auto;*/
 	background: #eee;
 	z-index: 100;
+	font-size: 15px;
+	background-color: white;
 }
 
 .code-editor.windowed {
